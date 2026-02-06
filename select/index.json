@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "茜",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-06T16:42:17.259950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茜",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/01_茜_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "茜",
+      "artist": "くぅが starring 野島健児(from U×ミシ)",
+      "has_synced": true,
+      "path": "select/02_茜_くぅが_starring_野島健児(from_U×ミシ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YOAKELAND (feat. 琴葉 茜・葵, 重音テト & 東北きりたん)",
+      "artist": "電ǂ鯨",
+      "has_synced": false,
+      "path": "select/03_YOAKELAND_(feat._琴葉_茜・葵,_重音テト_&_東北きりたん)_電ǂ鯨.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YOAKELAND (feat. 琴葉 茜・葵, 重音テト & 東北きりたん)",
+      "artist": "Denki Qujira",
+      "has_synced": false,
+      "path": "select/04_YOAKELAND_(feat._琴葉_茜・葵,_重音テト_&_東北きりたん)_Denki_Qujira.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sisterly Quartz (feat. 琴葉 茜・葵)",
+      "artist": "Twinfield",
+      "has_synced": true,
+      "path": "select/05_Sisterly_Quartz_(feat._琴葉_茜・葵)_Twinfield.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "巨人の肩から見下ろして (feat. 琴葉 茜・葵)",
+      "artist": "海茶",
+      "has_synced": true,
+      "path": "select/06_巨人の肩から見下ろして_(feat._琴葉_茜・葵)_海茶.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "茜",
+      "artist": "KEIKO",
+      "has_synced": true,
+      "path": "select/07_茜_KEIKO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "茜",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_茜_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "茜",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_茜_ヨルシカ.txt"
+    }
+  ]
+}

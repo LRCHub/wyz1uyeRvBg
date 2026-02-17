@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "茜",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-02-06T16:42:40.628268Z",
+  "createdAt": "2026-02-17T07:48:54.722930Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,14 @@
       "artist": "Yorushika",
       "has_synced": true,
       "path": "select/08_茜_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "茜",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/09_茜_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
